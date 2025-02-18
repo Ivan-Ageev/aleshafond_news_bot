@@ -41,7 +41,7 @@
 - `os`
 
 ### Environment Variables:
-- `TOKEN`: Your Telegram bot token (e.g., `7304359723:AAFH8aTxRBoNk_hhvNDV_B5GLH2A4Vih7aU`).
+- `TOKEN`: Your Telegram bot token (e.g., `YOUR TOKEN`).
 - `LOGO_PATH`: Path to the logo image used in the bot (e.g., `/Users/ivan/Downloads/bear3.png`).
 
 ### Commands:
