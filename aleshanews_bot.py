@@ -7,7 +7,7 @@ import os
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-TOKEN = '7304359723:AAFH8aTxRBoNk_hhvNDV_B5GLH2A4Vih7aU'
+TOKEN = 'YOUR TOKEN'
 SEARCH_URL = 'https://aleshafond.ru/news?search='
 LOGO_PATH = '/Users/ivan/Downloads/bear3.png'
 
