@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Alesha_News_Bot.iml" filepath="$PROJECT_DIR$/.idea/Alesha_News_Bot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sbory_bot/.idea/sbory_bot.iml" filepath="$PROJECT_DIR$/../sbory_bot/.idea/sbory_bot.iml" />
+    </modules>
+  </component>
+</project>
